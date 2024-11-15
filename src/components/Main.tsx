@@ -75,7 +75,7 @@ export function Main() {
                     />
                 </section>
                 <section className='p-12'>
-                    <div className='w-full bg-white h-[350px] rounded-lg shadow-xl text-primary text-center '>
+                    <div className='w-full bg-white h-80 rounded-lg shadow-xl text-primary text-center '>
                         <div className='flex flex-col items-center gap-2 leading-none p-16'>
                             <h1 className='text-3xl'>What is <span className='font-extrabold'>Lorem</span> Ipsum?</h1>
                             <p className='max-w-[400px] text-xs'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>   
