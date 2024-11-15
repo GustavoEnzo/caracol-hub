@@ -82,7 +82,7 @@ export function Main() {
                             <div className='flex flex-row gap-4'>
                                 <input className='border-2 border-primary p-1 focus:outline-none focus:ring-0 rounded-lg h-10 w-[500px]' type="text" placeholder='Digite seu Email' />
                                 <button className='bg-primary text-white w-32 rounded-lg p-2'>Enviar</button>
-                                
+                                you&apos;re free 
                             </div>
                         </div>
                     </div>
