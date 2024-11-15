@@ -34,7 +34,7 @@ export function Main() {
                     </div>
                 </section>
                 <section className="flex justify-between p-12 items-center">
-                    <div className="w-[529px] h-[529px] bg-secondary rounded-lg"></div>
+                    <div className="w-[529px] h-96 bg-secondary rounded-lg"></div>
                     <div className="text-start"> 
                         <h2 className="text-sm font-light mb-2">Sustentabilidade</h2>
                         <h1 className="text-3xl font-normal mb-2"> Lorem Ipsum</h1>
@@ -55,7 +55,7 @@ export function Main() {
                         <h1 className="text-3xl font-normal mb-2"> Lorem Ipsum</h1>
                         <p className="max-w-[300px] text-lg ">Comprometidos com práticas ecológicas para um futuro melhor.</p> 
                     </div>
-                    <div className="w-[529px] h-[529px] bg-primary rounded-lg"></div>
+                    <div className="w-[529px] h-96 bg-primary rounded-lg"></div>
                 </section>
                 <section className='flex flex-row gap-20 justify-center p-12'>
                     <Image
