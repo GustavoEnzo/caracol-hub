@@ -16,19 +16,19 @@ export function Main() {
                 </div>
                 <section className="flex flex-col md:flex-row justify-center  items-center p-12 ">
     
-                    <div className="border border-gray-300 rounded-bl-lg w-[422px] h-[422] p-8 text-start ">
+                    <div className="border border-gray-300 rounded-bl-lg w-[422px] h-96 p-8 text-start ">
                     <h2 className="text-sm font-normal mb-2">Entrega Rápida</h2>
                         <p className="max-w-[240px] text-lg ">Oferecemos serviços de entrega rápida e eficiente para atender suas necessidades.</p>
                     </div>
 
                     
-                    <div className="border border-gray-300  w-[422px] h-[422] p-8  text-start ">
+                    <div className="border border-gray-300  w-[422px] h-96 p-8  text-start ">
                         <h2 className="text-sm font-normal mb-2">Sustentabilidade</h2>
                         <p className="max-w-[240px] text-lg ">Comprometidos com práticas ecológicas para um futuro melhor.</p>
                     </div>
 
                     
-                    <div className="border border-gray-300 rounded-tr-lg w-[422px] h-[422] p-8 text-start ">
+                    <div className="border border-gray-300 rounded-tr-lg w-[422px] h-96 p-8 text-start ">
                     <h2 className="text-sm font-normal mb-2">Segurança</h2>
                         <p className="max-w-[240px] text-lg ">Garantimos total segurança e confiança em todos os nossos serviços.</p>
                     </div>
