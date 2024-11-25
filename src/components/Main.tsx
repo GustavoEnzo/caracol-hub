@@ -2,6 +2,7 @@ import Image from 'next/image';
 import Caracol from '@/assets/caracol.svg';
 import Expolog from '@/assets/expolog.svg';
 import Ja from '@/assets/ja.svg';
+import Whats from '@/assets/whatsapp.svg';
 
 export function Main() {
     return (
@@ -88,9 +89,22 @@ export function Main() {
                     </div>
                 </section>
             </div>
-        </div>
-      
+          </div>
+          <a 
+            href="https://wa.me/559898411927" 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            className="fixed bottom-7 right-7 z-50 w-14 h-14 flex items-center justify-center"
+            >
+          <Image 
+                    src={Whats}
+                    alt="Whats"
+                    width={50}
+                    height={50}
+                    className="transition-transform hover:scale-110"
+                />
+          </a>
      </>
-        
+
     );
 } 
